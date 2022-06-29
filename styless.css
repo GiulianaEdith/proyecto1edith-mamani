@@ -1,0 +1,99 @@
+ header{
+     background-color: aqua;
+     font-family: sans-serif;
+     display: flex;
+     justify-content:space-between;
+
+ }
+
+
+a {
+    text-decoration: none;
+    color: inherit;
+    padding: 10px;
+}
+
+figure width
+
+h1 {
+    font-size: 48px;
+    color: aqua;
+}
+ 
+h2 {text-align: center;
+    font-size: 48px;
+}
+
+.centrado {
+    text-align: center;
+}
+
+p {
+    margin: 16px; 0;
+    backgroun
+}
+
+header {
+    display: flex;
+}
+#inicio{ 
+        display: flex;
+       flex-direction: row;
+        align-items: center
+        min-height: 100vh;
+    }
+
+
+article: { width: 100%}
+
+body { font-family: lato,sans-serif;
+       font-size: 18px;
+       background-color: crimson;
+}
+
+
+
+.contact-links
+    display: flex;
+    flex-direction; center;
+    justify-content:center;
+
+
+
+
+
+
+footer {
+    background-color: aliceblue;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.hablemos {background-color: rgba(175,90,158,0.3);
+           margin: inline-start 350px;;
+           border: radius 20px;
+           padding: 3% 2%;
+           flex-direction: column;
+        }
+
+#contacto {
+    display:flex;
+    flex-direction: column
+    justify-content:column;
+    align-items:center;
+    height:min-content;
+    width: 100vh;
+}
+ i class { background-color: blue;
+           text-align: center
+           ;
+ }
+
+ button { 
+    background-color: beige;
+       
+ }
+
+section id 
